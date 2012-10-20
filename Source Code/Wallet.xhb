@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<homebank v="0.5">
+<properties title="Post-Diwali" car_category="0" auto_nbdays="0"/>
+<account key="1" flags="0" pos="1" type="2" name="Wallet" number="" bankname="" initial="5070" minimum="0" cheque1="0" cheque2="0"/>
+<pay key="5" name="H2 Canteen"/>
+<pay key="13" name="Wing"/>
+<pay key="12" name="Yeshwant"/>
+<pay key="2" name="CANARA Bank"/>
+<pay key="11" name="KRESIT Canteen"/>
+<pay key="10" name="H3 Stationery Shop"/>
+<pay key="9" name="Stationery Shop"/>
+<pay key="8" name="Vipul"/>
+<pay key="7" name="Navien"/>
+<pay key="6" name="Auto"/>
+<pay key="1" name="Sudeep"/>
+<pay key="4" name="PVR Cinemas"/>
+<pay key="3" name="Lalith"/>
+<cat key="1" parent="0" flags="0" name="Stationery"/>
+<cat key="9" parent="0" flags="0" name="Cash Withdrawal"/>
+<cat key="6" parent="0" flags="0" name="Balance "/>
+<cat key="8" parent="0" flags="0" name="Necessities"/>
+<cat key="7" parent="0" flags="0" name="Mobile"/>
+<cat key="5" parent="0" flags="0" name="Food &amp; Snacks"/>
+<cat key="2" parent="0" flags="0" name="Travel Expenses"/>
+<cat key="4" parent="0" flags="0" name="Entertainment"/>
+<cat key="3" parent="0" flags="0" name="Bank Deposit"/>
+<ope date="734441" amount="-87" account="1" dst_account="0" paymode="3" flags="0" payee="10" category="1" wording="Files" info="H3 " tags=""/>
+<ope date="734441" amount="-360" account="1" dst_account="0" paymode="3" flags="32" payee="1" category="2" wording="Airport to House" info="Chennai " tags=""/>
+<ope date="734441" amount="-4500" account="1" dst_account="0" paymode="3" flags="0" payee="2" category="3" wording="" info="Mumbai" tags=""/>
+<ope date="734441" amount="-20" account="1" dst_account="0" paymode="3" flags="0" payee="0" category="2" wording="IITB to PVR" info="Mumbai" tags=""/>
+<ope date="734441" amount="-75" account="1" dst_account="0" paymode="3" flags="0" payee="4" category="5" wording="Pop Corn" info="PVR  Mulund" tags=""/>
+<ope date="734441" amount="-5" account="1" dst_account="0" paymode="3" flags="0" payee="5" category="5" wording="Tea" info="H2 IITB" tags=""/>
+<ope date="734441" amount="-24" account="1" dst_account="0" paymode="3" flags="0" payee="6" category="2" wording="Auto Fare Hiranandani to IITB" info="Mumbai" tags=""/>
+<ope date="734441" amount="10" account="1" dst_account="0" paymode="3" flags="2" payee="7" category="6" wording="Balance" info="" tags=""/>
+<ope date="734441" amount="-20" account="1" dst_account="0" paymode="3" flags="32" payee="7" category="5" wording="Veg Sezwan Noodles" info="H2 IITB" tags=""/>
+<ope date="734441" amount="-12" account="1" dst_account="0" paymode="3" flags="0" payee="11" category="5" wording="Tea and Samosa" info="KRESIT IITB" tags=""/>
+<ope date="734441" amount="-110" account="1" dst_account="0" paymode="3" flags="0" payee="4" category="4" wording="Velayutham" info="PVR Mulund" tags=""/>
+<ope date="734442" amount="25" account="1" dst_account="0" paymode="3" flags="3" payee="8" category="5" wording="Tea and Samosa" info="KRESIT IITB" tags=""/>
+<ope date="734442" amount="-20" account="1" dst_account="0" paymode="3" flags="0" payee="0" category="5" wording="Snacks" info="KRESIT" tags=""/>
+<ope date="734442" amount="-20" account="1" dst_account="0" paymode="3" flags="0" payee="8" category="5" wording="Snacks" info="KRESIT" tags=""/>
+<ope date="734442" amount="25" account="1" dst_account="0" paymode="3" flags="2" payee="8" category="5" wording="Snacks" info="KRESIT" tags=""/>
+<ope date="734442" amount="-222" account="1" dst_account="0" paymode="3" flags="0" payee="10" category="7" wording="Vodafone Recharge" info="H3 " tags=""/>
+<ope date="734442" amount="-14" account="1" dst_account="0" paymode="3" flags="0" payee="10" category="8" wording="Tooth Brush" info="H3" tags=""/>
+<ope date="734444" amount="72" account="1" dst_account="0" paymode="3" flags="3" payee="3" category="2" wording="Ticket Balance" info="Mumbai" tags=""/>
+<ope date="734444" amount="28" account="1" dst_account="0" paymode="3" flags="3" payee="3" category="2" wording="PVR to IITB" info="Mumbai" tags=""/>
+<ope date="734444" amount="500" account="1" dst_account="0" paymode="3" flags="2" payee="2" category="9" wording="" info="SBI ATM, Tansa House" tags=""/>
+<ope date="734444" amount="-23" account="1" dst_account="0" paymode="3" flags="0" payee="10" category="1" wording="ED End Sem" info="H3 " tags=""/>
+<ope date="734444" amount="10" account="1" dst_account="0" paymode="3" flags="34" payee="8" category="6" wording="ED Drawing sheets" info="H3" tags=""/>
+<ope date="734444" amount="10" account="1" dst_account="0" paymode="3" flags="34" payee="12" category="6" wording="Drawing Sheets" info="H3" tags=""/>
+<ope date="734444" amount="-56" account="1" dst_account="0" paymode="3" flags="0" payee="13" category="6" wording="Drawing Sheets" info="H3" tags=""/>
+</homebank>
